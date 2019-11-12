@@ -369,11 +369,13 @@ textarea,
 
 .s-text {
 	font-size: 18px;
-	font-style: italic; 
+	font-style: italic;
+	text-shadow: #efefef -1px -1px 2px; 
 }
 h1, h2 {
 	font-size: 50px;
 	font-weight: 400;
+	text-shadow: #efefef -1px -1px 2px;
 }
 input::placeholder,
 textarea::placeholder  {
